@@ -1,29 +1,3 @@
----
-name: User Story Template
-about: Well-formatted Template for User Stories. Uses Gherkin Syntax.
-title: "[FEATURE] "
-labels: ''
-assignees: ''
-
----
-
-<br>
-
-> [!IMPORTANT]
-> Regarding 'Feature Description' and 'Acceptance Criteria':  
-> Always use same syntax!!! Consistency is key.
->
-> Makes testing easier.
->
-> Use Gherkin-Syntax.  
-> For example:
->
-> Given [some context]  
-> When [certain action is taken]  
-> Then [the outcome of action is observed]
->
-> Complete example at the end.
-
 <br>
 
 ## Feature Description:
